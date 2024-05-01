@@ -17,7 +17,7 @@
 
 - Actualmente me encuentro aprendiendo Desarrollo Web en Bootcamp Makaia.
 - Soy una apasionada desarrolladora Front-end autodidacta.
-- Actualmente estoy abierta a una oportunidad de trabajo, este es mi currículum.
+- Actualmente estoy abierta a una oportunidad de trabajo.
 
 <br><br>
 
