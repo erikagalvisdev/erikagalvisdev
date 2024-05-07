@@ -15,7 +15,7 @@
 
 <br>
 
-- Actualmente me encuentro aprendiendo Desarrollo Web en Bootcamp Makaia.
+- En este momento me encuentro aprendiendo Desarrollo Web en Bootcamp Makaia.
 - Soy una apasionada desarrolladora Front-end autodidacta.
 - Actualmente estoy abierta a una oportunidad de trabajo.
 
