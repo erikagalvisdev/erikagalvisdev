@@ -3,7 +3,7 @@
 - 🌱 I'm taking my small leaps in web development.
 - ⚡ I am looking to collaborate on creative social projects.
 
-  📌Link de mi otra cuenta de Github: https://github.com/erikasupport/Api_veterinaryProject.git
+  📌Link de mi otra cuenta de Github: https://github.com/erika-support/Api_veterinaryProject
 
 
 <p align="center">
